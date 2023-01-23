@@ -1,0 +1,5 @@
+# DAY 1
+1. To keep your SQL code readable. Keep the SQL functions/terms in CAPS while the names of the tables, columns etc should be in small letters. 
+2.  Always add a semicolon at the end of the query, this helps to indicate the end of the query. ';'
+3. _Select *_ is used when you want to select all columns from a queried table. 
+4. SELECT is used to choose the fields that will be included in the result set, while FROM is used to pick the table in which the fields are listed.
