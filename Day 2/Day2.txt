@@ -1,0 +1,3 @@
+1. Aliaising in SQL helps to make columm names more readable. It gives the column a temporary name for the sake of clarity mostly. An alias only exists for the duration of that query. You could alias the a column as in the query by adding the _AS_ keyword to indicate an alias after selecting the column field. 
+2. The DISTINCT keyword in the SELECT clause is used to eliminate duplicate rows and display a unique list of values. In other words, the DISTINCT keyword retrieves unique values from a table. The basic syntax of the DISTINCT keyword in SQL is: _SELECT DISTINCT._
+3. CREATE VIEW is used in SQL for creating a virtual table of rows and columns defined by the query. It is used before the SELECT query
