@@ -1,0 +1,8 @@
+# DAY 3 
+
+1. To filter in SQL, the 'WHERE' clause is used. It is usually used with COMPARISON OPERATORS.
+2. Comparison Operators are used with the WHERE clause to help filter data. Examples of Comparison Operators used with the 'where' clause include 
+- Greater than >
+- Less than <
+- Not equal to <>
+3. Multiple Criteria Filter includes using the following terms with the 'WHERE' clause and they include; 'OR', 'AND' and 'BETWEEN'. 
